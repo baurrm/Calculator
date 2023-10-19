@@ -1,3 +1,3 @@
 # 🔢 Calculator
 
-![Alt text](/screenshot.png/?raw=true "Optional Title")
+![Alt text](/Screenshot-Simulator.png/?raw=true "Optional Title")
